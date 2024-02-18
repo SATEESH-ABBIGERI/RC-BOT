@@ -7,3 +7,4 @@ COMPONENTS:
 3. 100rpm geared 12v motor
 4. tattu 11.2 lipo 3 cell battery
 5. fly sky CT6B transmitter and receiver 
+LINK FOR IMAGES https://drive.google.com/drive/folders/1KNRLmsVPHfzV2Kbu-EZI5tCRICaJyGQy?usp=sharing
